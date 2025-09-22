@@ -83,3 +83,4 @@ __pydantic_cache__/
 # Environment files
 .env
 .env.*
+~/.aws/credentials

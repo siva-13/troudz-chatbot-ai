@@ -10,3 +10,5 @@ tiktoken==0.5.2
 numpy>=1.21.0
 typing-extensions>=4.0.0
 numpy<2.0.0,>=1.21.0 
+packaging
+httpx==0.24.1
